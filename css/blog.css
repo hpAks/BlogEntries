@@ -1,0 +1,14 @@
+.nav-tabs > li > a:focus {
+	color: #03183e;
+	background-color: #e05928;
+}
+
+table {
+	 border: 3px solid black;
+}
+
+
+.resultsettable {
+	margin-top: 200px;
+	padding-top: 200px;
+}
